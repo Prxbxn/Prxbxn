@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Passionate Software Engineer from Nepal</p>
+<p align="left">A Tech Passionate from Nepal</p>
 
 ###
 
